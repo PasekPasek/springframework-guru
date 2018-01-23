@@ -1,0 +1,34 @@
+# this a comment
+
+name: John
+
+names: #Comment
+    -John
+    -Paul
+    -Ringo
+
+pound_sign: "@"
+
+book:
+    author: Joe Black
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  awdawdawd  awdaw awdawd
+  awdawd awdawd awdawd awd
+
+ingore_new_lines: >
+  awdawd awdawd
+  awdawd awdawd awdawd
